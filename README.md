@@ -39,7 +39,7 @@ Run Locally
 To run a specific solution, clone the repository and execute the file:
 code Bash
 
-git clone https://github.com/yourusername/hackerrank-algorithms.git
+git clone https://github.com/aswinkumaar06bec28-blip/hackerrank-algorithms.git
 cd hackerrank-algorithms/Sorting
 python3 solution_name.py
 
